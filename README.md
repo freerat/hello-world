@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+this is the hello world file for my first repository
+
